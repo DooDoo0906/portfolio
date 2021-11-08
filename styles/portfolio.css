@@ -22,7 +22,7 @@
 
 
 .detail p{
-    text-align: left;
+    text-align: center;
     margin: 1em 2em 8em 2em;
     font-size: 1.3em;
 }
@@ -33,7 +33,7 @@
  margin-top: 2.2em;
 }
 .describe p{
-  text-align: left;
+  text-align: center;
   margin: 1em 2em 8em 2em;
   font-size: 1em;
   
@@ -45,7 +45,7 @@
  margin-top: 2.2em;
 }
 .describe2 p{
-  text-align: left;
+  text-align: center;
   margin: 1em 2em 8em 2em;
   font-size: 1em;
   
