@@ -1,33 +1,4 @@
-/* ul{
-    height: 3em;
-  
-}
 
-.nav-link .active{
-    color: blueviolet;
-} */
-.offcanvas-header{ display:none; }
-
-@media (max-width: 992px) {
-  .offcanvas-header{ display:block; }
-  .navbar-collapse {
-    position: fixed;
-    top:0; 
-    bottom: 0;
-    left: 100%;
-    width: 100%;
-    padding-right: 1rem;
-    padding-left: 1rem;
-    overflow-y: auto;
-    visibility: hidden;
-    background-color: black;
-    transition: visibility .2s ease-in-out, -webkit-transform .2s ease-in-out;
-  }
-  .navbar-collapse.show {
-    visibility: visible;
-    transform: translateX(-100%);
-  }
-}
 .greeting{
     text-align: center;
 }
@@ -35,7 +6,7 @@
 .info{
     text-align: center;
     background-repeat: no-repeat;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
     background-image: url('https://th.bing.com/th/id/OIP.xIAJKgAT2xoG3ZxHx3ttUAHaNK?pid=ImgDet&rs=1');
 }
@@ -52,7 +23,30 @@
 
 .detail p{
     text-align: left;
-    margin: 1.5em 2em 0 2em;
+    margin: 1em 2em 8em 2em;
     font-size: 1.3em;
 }
 
+
+.describe h1{
+  text-align: center;
+ margin-top: 3em;
+}
+.describe p{
+  text-align: left;
+  margin: 1em 2em 8em 2em;
+  font-size: 1.3em;
+  
+}
+
+
+.describe2 h1{
+  text-align: center;
+ margin-top: 3em;
+}
+.describe2 p{
+  text-align: left;
+  margin: 1em 2em 8em 2em;
+  font-size: 1.3em;
+  
+}
