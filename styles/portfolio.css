@@ -3,6 +3,7 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  
  
 }
 .greeting{
@@ -117,7 +118,7 @@ body{
   left: 0;
   width: 0;
   height: 100%;
-  background: linear-gradient(to bottom, #66ccff 48%, #ccccff 82%);
+  background: linear-gradient(to bottom, #5c8396a9 48%, #9c9cf5 82%);
   transition: all .65s;
 }
 
