@@ -1,15 +1,21 @@
-body{
-  background-image: url('https://th.bing.com/th/id/R.2586b4074af7e96b760c5f897558bc66?rik=uTSs4QBFDbuAgA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f189609-space-planet-futuristic.jpg&ehk=Bz%2bQ6Pr99qG9BOY9OG%2btr50VGrf6bxh1uunZzb0amWs%3d&risl=&pid=ImgRaw&r=0');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  
- 
+.appreview1 p{
+  margin: 1em 2em 0 3em;
+  font-size: 1.5em; 
+  text-align: center;
 }
+.appreview2 p{
+  margin: 20em 5em 0 0;
+  font-size: 1.5em;
+
+}
+.pic1 img{
+  height: 54em;
+  margin-top: 1em;
+}
+
 .greeting{
     text-align: center;
-    font-family: Cursive ;
-    color: white;
+    
 }
 
 .info{
@@ -23,24 +29,24 @@ body{
 .describe3 p{
   text-align: center;
   margin: 8em 2em 8em 2em;
-  font-size: 1em;
-  font-family:  Cursive;
-  color: rgb(247, 188, 188);
+  font-size: 1.5em;
+ 
+ 
 }
 .describe4 p{
   text-align: center; 
   margin: 8em 2em 8em 2em;
-  font-size: 1em;
-  font-family:  Cursive;
-  color: rgb(247, 188, 188);
+  font-size: 1.5em;
+ 
+ 
 }
 
 .describe5 p{
   text-align: center; 
   margin: 10em 2em 8em 2em;
-  font-size: 1em;
-  font-family:  Cursive;
-  color: rgb(247, 188, 188);
+  font-size: 1.5em;
+ 
+  
 }
 .detail{
      
@@ -56,8 +62,8 @@ body{
     text-align: center;
     margin: 1em 2em 8em 2em;
     font-size: 1.5em;
-    font-family:Cursive ;
-    color: rgb(255, 255, 255);
+ 
+
 }
 
 
@@ -68,11 +74,11 @@ body{
 
 }
 .describe p{
-  font-family:  Cursive ;
+ 
   text-align: center;
   margin: 1em 2em 8em 2em;
   font-size: 1.3em;
-  color: white;
+  
   
 }
 
@@ -83,11 +89,11 @@ body{
  color: rgb(89, 160, 182);
 }
 .describe2 p{
-  font-family:  Cursive ;
+ 
   text-align: center;
   margin: 1em 2em 8em 2em;
   font-size: 1.3em;
-  color: white;
+ 
 }
 
 .wrapper a{
@@ -118,7 +124,7 @@ body{
   left: 0;
   width: 0;
   height: 100%;
-  background: linear-gradient(to bottom, #5c8396a9 48%, #9c9cf5 82%);
+  background: linear-gradient(to bottom, #115aa3ad 48%, #0798ec 82%);
   transition: all .65s;
 }
 
@@ -157,19 +163,19 @@ body{
     text-align: center;
     margin: 3em 2em 2em 1em;
     font-size: 0.6em;
-    font-family:  Cursive;
+    
   }
   .describe4 p{
     text-align: center;
     margin: 5em 1em 5em 2em;
     font-size: 0.6em;
-    font-family:  Cursive;
+  
   }
   .describe5 p{
     text-align: center;
-    margin: 8em 1em 0 2em;
+    margin: 5em 1em 0 1em;
     font-size: 0.6em;
-    font-family:  Cursive;
+  
   }
   .detail{
        
@@ -186,7 +192,7 @@ body{
       text-align: center;
       margin: 1em 2em 8em 2em;
       font-size: 0.5em;
-      font-family:Cursive ;
+     
   }
   
   .acti h1{
@@ -201,7 +207,7 @@ body{
    font-size: 1.3em;
   }
   .describe p{
-    font-family:  Cursive ;
+   
     text-align: center;
     margin: 1em 2em 0 2em;
     font-size: 0.8em;
@@ -215,10 +221,14 @@ body{
    font-size: 1.3em;
   }
   .describe2 p{
-    font-family:  Cursive ;
+   
     text-align: center;
     margin: 1em 2em 0 2em;
     font-size: 0.8em;
   }
   
 }
+
+
+
+
