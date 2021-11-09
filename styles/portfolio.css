@@ -1,20 +1,31 @@
+body{
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+    background-image: url('https://th.bing.com/th/id/R.2586b4074af7e96b760c5f897558bc66?rik=uTSs4QBFDbuAgA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f189609-space-planet-futuristic.jpg&ehk=Bz%2bQ6Pr99qG9BOY9OG%2btr50VGrf6bxh1uunZzb0amWs%3d&risl=&pid=ImgRaw&r=0');
+}
+
 .appreview1 p{
-  margin: 1em 2em 0 3em;
+  margin: 0 3em 0 4em;
   font-size: 1.5em; 
   text-align: center;
+  color: white;
 }
 .appreview2 p{
-  margin: 20em 5em 0 0;
+  margin: 1em 4em 0 3em;
   font-size: 1.5em;
-
+  color: white;
+  text-align: center;
 }
 .pic1 img{
-  height: 54em;
+  height: 40em;
   margin-top: 1em;
+  width: 30em;
 }
 
 .greeting{
     text-align: center;
+  color: white;
     
 }
 
@@ -24,12 +35,15 @@
   /* background-attachment: fixed; */
   background-size: cover;
     background-image: url('https://th.bing.com/th/id/OIP.xIAJKgAT2xoG3ZxHx3ttUAHaNK?pid=ImgDet&rs=1');
+  color: white;
+    
 }
 
 .describe3 p{
   text-align: center;
   margin: 8em 2em 8em 2em;
   font-size: 1.5em;
+  color: white;
  
  
 }
@@ -38,6 +52,7 @@
   margin: 8em 2em 8em 2em;
   font-size: 1.5em;
  
+  color: white;
  
 }
 
@@ -46,6 +61,7 @@
   margin: 10em 2em 8em 2em;
   font-size: 1.5em;
  
+  color: white;
   
 }
 .detail{
@@ -63,6 +79,7 @@
     margin: 1em 2em 8em 2em;
     font-size: 1.5em;
  
+    color: white;
 
 }
 
@@ -74,6 +91,7 @@
 
 }
 .describe p{
+  color: white;
  
   text-align: center;
   margin: 1em 2em 8em 2em;
@@ -83,7 +101,7 @@
 }
 
 
-.describe2 h1{
+/* .describe2 h1{
   text-align: center;
  margin-top: 10em;
  color: rgb(89, 160, 182);
@@ -93,8 +111,9 @@
   text-align: center;
   margin: 1em 2em 8em 2em;
   font-size: 1.3em;
+  color: white;
  
-}
+} */
 
 .wrapper a{
   display: block;
@@ -214,8 +233,24 @@
     
   }
   
-  
-  .describe2 h1{
+  .appreview1 p{
+    margin: 0.5em 0 0 0;
+    font-size: 0.8em; 
+    text-align: center;
+    color: white;
+  }
+  .appreview2 p{
+    margin: 1em 0 0 0;
+    font-size: 0.8em;
+    color: white;
+    text-align: center;
+  }
+  .pic1 img{
+    height: 25em;
+    margin-top: 0em;
+    width: 35em;
+  }
+  /* .describe2 h1{
     text-align: center;
    margin-top: 1em;
    font-size: 1.3em;
@@ -225,7 +260,7 @@
     text-align: center;
     margin: 1em 2em 0 2em;
     font-size: 0.8em;
-  }
+  } */
   
 }
 
